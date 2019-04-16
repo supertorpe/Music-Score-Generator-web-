@@ -3,6 +3,8 @@ Configurable sheet music generator
 
 It is written y C# with a minimalistic one-page ASP.NET website.
 
+The music generation is not random: it is guided by a graph of chord progressions.
+
 ## Screenshots
 <img src="screenshots/main.png">
 <img src="screenshots/sheet.png">
